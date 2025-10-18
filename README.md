@@ -16,7 +16,7 @@ like account creation, deposit, withdrawal, and balance inquiry. It's a great be
 ## 🙋‍♂ Author
 
 *Ankit Gola*  
-GitHub: [codewith-daksh](https://github.com/codewithdaksh)  
+GitHub: [AnkitGola-7078](https://github.com/AnkitGola-7078)  
 Email: ankitprajapati3785@gmail.com
 
 ## 📄 License
