@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (codewith-daksh)
+# 🏦 Bank Management System (AnkitGola-7078)
 
 This is a simple Java-based Bank Management System project which allows users to perform banking operations 
 like account creation, deposit, withdrawal, and balance inquiry. It's a great beginner-friendly project to understand OOP concepts in Java.
